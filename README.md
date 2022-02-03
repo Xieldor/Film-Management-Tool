@@ -2,7 +2,7 @@
 
 **Authors:**
 
-**Team 58: Wenyan Du, Qian Liu, Tianfang Xie, Yu Zhang, Pengcheng Zhou**
+**Team 58: Tianfang Xie, Wenyan Du, Qian Liu, Yu Zhang, Pengcheng Zhou**
 
 ## 1 Introduction
 
